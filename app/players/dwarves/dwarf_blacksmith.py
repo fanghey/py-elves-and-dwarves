@@ -1,5 +1,6 @@
 from .dwarf import Dwarf
 
+
 class DwarfBlacksmith(Dwarf):
     def __init__(
         self,
