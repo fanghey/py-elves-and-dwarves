@@ -15,4 +15,3 @@ class Elf(Player):
             f"{self.nickname} is playing a song on the "
             f"{self._musical_instrument}"
         )
-      
