@@ -19,4 +19,3 @@ class DwarfBlacksmith(Dwarf):
             f"Dwarf blacksmith {self.nickname} "
             f"with skill of the {self._skill_level} level"
         )
-      
