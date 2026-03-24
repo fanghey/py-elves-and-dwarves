@@ -1,5 +1,4 @@
-from players.player import Player
-
+from ..player import Player
 
 class Dwarf(Player):
     def __init__(
