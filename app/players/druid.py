@@ -1,5 +1,4 @@
-from players.elves.elf import Elf
-
+from .elf import Elf
 
 class Druid(Elf):
     def __init__(
