@@ -15,4 +15,3 @@ class Dwarf(Player):
             f"{self.nickname} is eating "
             f"{self._favourite_dish}"
         )
-      
