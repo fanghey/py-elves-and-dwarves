@@ -1,5 +1,4 @@
-from players.player import Player
-
+from ..player import Playe
 
 class Elf(Player):
     def __init__(
